@@ -1,0 +1,5 @@
+body{background-color:rgb(133, 163, 219);}
+img{border: solid rgb(255, 145, 105) ;}
+p{font-size: 25px; font-style: italic; color: rgb(255, 145, 105);}
+h1:hover{background-color: rgb(255, 145, 105); font-style: italic;}
+.djfh{display: flex; flex-wrap: wrap; justify-content: space-evenly;}
